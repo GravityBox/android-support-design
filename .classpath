@@ -7,7 +7,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v4"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v7-appcompat"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v7-recyclerview"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-transition"/>
 	<classpathentry exported="true" kind="lib" path="classes/android-support-design.jar" sourcepath="classes/android-support-design-sources.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

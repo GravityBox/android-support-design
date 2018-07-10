@@ -14,16 +14,10 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
 -->
-<set xmlns:android="http://schemas.android.com/apk/res/android"
-     android:duration="@integer/bottom_sheet_slide_duration"
-     android:interpolator="@android:interpolator/fast_out_linear_in">
 
-    <translate
-            android:fromYDelta="20%p"
-            android:toYDelta="0"/>
-
-    <alpha
-            android:fromAlpha="0.0"
-            android:toAlpha="1.0"/>
-
-</set>
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+      class="android.support.design.widget.Snackbar$SnackbarLayout"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_gravity="bottom"
+      style="@style/Widget.Design.Snackbar" /><!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/lmp-mr1-supportlib-release/frameworks/support/design/res/layout/layout_snackbar.xml -->

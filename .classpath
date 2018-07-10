@@ -6,7 +6,6 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v4"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v7-appcompat"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v7-recyclerview"/>
-	<classpathentry exported="true" kind="lib" path="classes/android-support-design.jar" sourcepath="classes/android-support-design-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="classes/android-support-design.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
